@@ -7,3 +7,7 @@
 - 😄 Pronomes: ela/dela
 - 👩‍💻 Estudante da Fatec RL em Santos 
 
+<html lang "pt-br">
+<img src="![Webp net-gifmaker](https://user-images.githubusercontent.com/88343113/155860466-bec557b3-f2b0-4bbf-a4ce-ded6e61aa0f8.gif)
+" alt="Image" height="20" width="20">
+</html> 
