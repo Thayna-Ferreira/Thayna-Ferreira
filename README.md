@@ -7,4 +7,3 @@
 - 😄 Pronomes: ela/dela
 - 👩‍💻 Estudante da Fatec RL em Santos 
 
-
