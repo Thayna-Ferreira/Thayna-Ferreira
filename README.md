@@ -1,4 +1,4 @@
-### Oii, sou a Thay 🥰
+### Oii, sou a Thayna🥰
 
 
 
